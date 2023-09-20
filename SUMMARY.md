@@ -11,7 +11,7 @@
 
 * [📪 Making a post](product-guides/making-a-post.md)
 * [📎 Understanding Projects](product-guides/understanding-projects.md)
-* [PE 简明安装使用教程](product-guides/PE-guide.md)
+* [PE 简明安装使用教程](product-guides/PE-guide.html)
 
 ## Fundamentals
 
